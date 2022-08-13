@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\ApplicationTest.dll
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\ApplicationTest.pdb
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\TaskSequenceApp.exe
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\TaskSequenceApp.pdb
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\TaskSequenceApp.exe.config
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\obj\Debug\ApplicationTest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\obj\Debug\ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\obj\Debug\ApplicationTest.csproj.CopyComplete
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\obj\Debug\ApplicationTest.dll
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\obj\Debug\ApplicationTest.pdb
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TaskSequenceApp\ApplicationTest\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\bin\Debug\TaskSequenceApp.exe.config
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\bin\Debug\TaskSequenceApp.pdb
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.Properties.Resources.resources
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.exe
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.pdb
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.MainForm.resources
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.csproj.CopyComplete
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.SubTaskDataLabel.resources
+C:\Users\User\Desktop\TaskSequenceApp\TaskSequenceApp\obj\Debug\TaskSequenceApp.TaskDataListControl.resources
